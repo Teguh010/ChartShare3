@@ -14,7 +14,7 @@
     "@quasar/extras": "^1.0.0",
     "apexcharts": "^3.10.1",
     "axios": "^0.18.1",
-    "chart.js": "^2.9.2",
+    "chart.js": "^2.9.4",
     "countup.js": "^2.0.4",
     "quasar": "^1.0.0",
     "vue-apexcharts": "^1.5.1",
